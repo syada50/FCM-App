@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "558673055762",
+    "project_id": "fcm-app-9a07b",
+    "storage_bucket": "fcm-app-9a07b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558673055762:android:839691522ee757129588cb",
+        "android_client_info": {
+          "package_name": "com.example.fcmapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFCxWdsPsFLoggxGnoji1O5Cp4s156mQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
